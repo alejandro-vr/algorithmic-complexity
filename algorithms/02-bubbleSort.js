@@ -17,7 +17,3 @@ function bubbleSort(array) {                    // O(n)
   }
   return array;                     // O(1)
 }
-
-let key = 4;
-let array = [ 0, 1, 2, 3, 4 ];
-console.log(linearSearch(array, key));

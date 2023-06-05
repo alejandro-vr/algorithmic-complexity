@@ -21,7 +21,3 @@ function selectionSort(array) {                 // O(n)
   }
   return array;
 }
-
-let key = 4;
-let array = [ 0, 1, 2, 3, 4 ];
-console.log(linearSearch(array, key));
