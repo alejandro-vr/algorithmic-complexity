@@ -1,7 +1,7 @@
 {
   "name": "algorithmic-complexity",
   "version": "1.0.0",
-  "description": "I created this repository to study algorithmic complexity, in order to be able to make better algorithm selection and to evaluate the performance of the code I build",
+  "description": "I created this repository to remember about algorithmic complexity, in order to be able to make better algorithm selection and to evaluate the performance of the code I build",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
